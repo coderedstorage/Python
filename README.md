@@ -1,2 +1,2 @@
 # Python
-My phyton codes
+My phyton codes are stored here
